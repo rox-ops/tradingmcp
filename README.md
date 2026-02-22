@@ -2,6 +2,8 @@
 
 Automated MCP trading bot using Bun, Zerodha (Kite Connect), and an LLM strategy with rules-based guardrails.
 
+See [MODULES.md](./MODULES.md) for a plain-English explanation of every module in this project.
+
 ## Overview
 - Runs an MCP server exposing market data and order execution tools.
 - Optional bot loop for fully automated trading.
